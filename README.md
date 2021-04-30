@@ -17,3 +17,5 @@ Repositorio para los talleres impartido a Lenguajes de Programación orientado a
 ### _TALLER 5_: https://drive.google.com/file/d/1UIvTg9_j9ao3Xr-OHhNu1eB2CUrv-irA/view
 
 ### _TALLER 6_: https://drive.google.com/file/d/1kQSjfHJK6iwY9cclV78soWeseazE7UfN/view
+
+### _TALLER 7_: https://drive.google.com/file/d/1XCMr9NXWPPNu4xAnG3s67QGME4YiaYzq/view
